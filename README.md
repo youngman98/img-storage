@@ -25,4 +25,13 @@
 개발Y로그 로고(다크모드1)
 
 ![devYlog-logo-dark2](https://github.com/youngman98/img-storage/assets/75000376/e04fabf4-2532-43b3-851e-55dfc6171045)
-개발Y로그 로고(다므코드2)
+개발Y로그 로고(다크모드2)
+
+![devYlog-logo-letter-light](https://github.com/youngman98/img-storage/assets/75000376/70c5b77f-842c-44b9-87bf-e8061a6f8a64)
+개발Y로그 로고 글자(라이트모드)
+
+![devYlog-logo-letter-dark1](https://github.com/youngman98/img-storage/assets/75000376/1f90d3d3-5354-4a2a-b0cf-3f552e29aee2)
+개발Y로그 로고 글자(다크모드1)
+
+![devYlog-logo-lettr-dark2](https://github.com/youngman98/img-storage/assets/75000376/f90fa032-b671-4f6e-855d-a2608cc6e370)
+개발Y로그 로고 글자(다크모드2)
