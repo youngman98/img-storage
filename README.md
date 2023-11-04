@@ -21,6 +21,13 @@
 ![icons8-dark-60](https://github.com/youngman98/img-storage/assets/75000376/9ad98291-155e-4070-954d-afb671114af2)
 다크모드 아이콘-60x60
 
+![1](https://github.com/youngman98/img-storage/assets/75000376/04cfd395-8baa-479a-ae76-1b9862cc525a)
+개발자 블로그 로고(라이트모드)
+
+![2](https://github.com/youngman98/img-storage/assets/75000376/8c21d446-d27c-4c5b-a0a3-bfddeffa3f09)
+개발자 블로그 로고(다크모드)
+
+
 ![devYlog-logo-main](https://github.com/youngman98/img-storage/assets/75000376/208b1244-2d07-4b91-8e09-d41f57e511a3)
 개발Y로그 로고(라이트모드)
 
