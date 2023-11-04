@@ -22,9 +22,15 @@
 다크모드 아이콘-60x60
 
 ![1](https://github.com/youngman98/img-storage/assets/75000376/04cfd395-8baa-479a-ae76-1b9862cc525a)
-개발자 블로그 로고(라이트모드)
+개발자 블로그 로고 큰ver(라이트모드)
 
 ![2](https://github.com/youngman98/img-storage/assets/75000376/8c21d446-d27c-4c5b-a0a3-bfddeffa3f09)
+개발자 블로그 로고 큰ver(다크모드)
+
+![logo-white](https://github.com/youngman98/img-storage/assets/75000376/1cf970a5-8131-446b-abb8-09cf6122cd5f)
+개발자 블로그 로고(라이트모드)
+
+![logo-dark](https://github.com/youngman98/img-storage/assets/75000376/bac30866-f0a1-4f9b-a49b-2128703ab187)
 개발자 블로그 로고(다크모드)
 
 
